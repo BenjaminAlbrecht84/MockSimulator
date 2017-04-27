@@ -392,7 +392,7 @@ public class RunnerPaper {
 			try {
 
 				// new ftp client
-				FTPClient ftpClient = setUpFTPClient();
+//				FTPClient ftpClient = setUpFTPClient();
 
 				int counter = 0, delta = 50;
 				for (int i = start; i < leaves.size(); i++) {
